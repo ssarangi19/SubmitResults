@@ -1,0 +1,5 @@
+1024191		USPS	Priority Mail Flat Rate Envelope	Prepaid						Kawahi Leonard	77 State Street	Apt 44	CAMBRIDGE	MA	02142	US			testjune17@ixcela.com				3	1
+1024191		USPS	Priority Mail Flat Rate Envelope	Prepaid						Kawahi Leonard	77 State Street	Apt 44	CAMBRIDGE	MA	02142	US			testjune17@ixcela.com				5	2
+1024192		USPS	Priority Mail Flat Rate Envelope	Prepaid					The Who	Keith Moon	75 Winchester Road	#1	CAMBRIDGE	MA	02142	US			testaugust12@ixcela.com				3	1
+1024192		USPS	Priority Mail Flat Rate Envelope	Prepaid					The Who	Keith Moon	75 Winchester Road	#1	CAMBRIDGE	MA	02142	US			testaugust12@ixcela.com				2	4
+1024192		USPS	Priority Mail Flat Rate Envelope	Prepaid					The Who	Keith Moon	75 Winchester Road	#1	CAMBRIDGE	MA	02142	US			testaugust12@ixcela.com				1	2
